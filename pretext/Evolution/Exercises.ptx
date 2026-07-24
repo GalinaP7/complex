@@ -5,4 +5,4 @@
   <p><term>Exercise 1:</term>  The notebook shows the effects of differential reproductions and survival separately. What if you have both? Write a class called <c>SimWithBoth</c> that uses the version of <c>choose_dead</c> from <c>SimWithDiffSurvival</c> and the version of <c>choose_replacements</c> from <c>SimWithDiffReproduction</c>. Does mean fitness increase more quickly?</p>
   <p>As a Python challenge, can you write this class without copying code?</p>
   <p><term>Exercise 2:</term>  When we change the landscape as in <xref ref="evolution_speciation"/>, the number of occupied locations and the mean distance usually increase, but the effect is not always big enough to be obvious. Try out some different random seeds to see how general the effect is.</p>
-</exercises>
+</exercises> 
